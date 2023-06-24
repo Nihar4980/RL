@@ -50,3 +50,4 @@ if __name__ == '__main__':
     frame = put_agent(frame, 11)
     cv2.imshow("Cliff World", frame)
     cv2.waitKey(0)
+
